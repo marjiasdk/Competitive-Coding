@@ -5,8 +5,7 @@
   <ul>
     <li>CodeChef</li>
     <li>HackerRank</li>
-    <li>LeetCode</li>
-</p>
+    <li>LeetCode</li></p>
 
 ## structure
 <p>the repository is organised into three directories, one for each problem source: "CodeChef", "HackerRank" and "LeetCode". each directory contains subdirectories for each programming language used in the solutions (currently, the repository ony contains solutions in Python): "python".</p>
