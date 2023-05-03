@@ -1,12 +1,10 @@
-<h3>competitive coding</h3>
-
-## problem sources
+## Competitive Coding
 The problems in this repository have been sourced from the following websites:
 - CodeChef
 - HackerRank
 - LeetCode
 
-## structure
+## Structure
 The repository is organised into three directories, one for each problem source: "CodeChef", "HackerRank" and "LeetCode". Each directory contains subdirectories for each programming language used in the solutions (currently, the repository only contains solutions in Python): "python".
 
 Each subdirectory contains solutions to problems in that programming language. The solutions are named with the problem code and language extension.
