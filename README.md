@@ -2,9 +2,9 @@
 
 ## problem sources
 <p>the problems in this repository have been sourced from the following websites:
-* CodeChef
-* HackerRank
-* LeetCode
+*CodeChef
+*HackerRank
+*LeetCode
 </p>
 
 ## structure
