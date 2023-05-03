@@ -1,4 +1,4 @@
-# competitive coding
+<h3>competitive coding</h3>
 
 ## problem sources
 The problems in this repository have been sourced from the following websites:
