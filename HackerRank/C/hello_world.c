@@ -1,11 +1,13 @@
 #include <stdio.h>
 
 int main() {
-    // [100] is the maximum length of the string
+    // declares array of characters called "sentence", with a size of 100
     char sentence[100];
-    // %[^\n] is used to read the string with spaces
+    // read line of input from stdin and save it to "sentence"
+    // until it encounters a new line character 
+    // [^\n] means "read until you encounter a new line character"
     scanf("%[^\n]", sentence);
-    // %s is used to print the string
+    // %s means "print a string"
     printf("Hello, World!\n%s", sentence);
     return 0;
 }
