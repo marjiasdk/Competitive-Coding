@@ -18,7 +18,7 @@ int main() {
 
     printf("%c\n", ch);
     printf("%s\n", s);
-    printf("%s\n", sen);
+    printf("%s", sen);
 
     return 0;
 }
