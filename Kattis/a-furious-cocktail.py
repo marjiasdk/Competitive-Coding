@@ -1,17 +1,17 @@
 n, s = map(int, input().split())
 
 i = 0
-lst = []
+list = []
 while i < n:
     b = int(input())
-    lst.append(b)
+    list.append(b)
     i += 1
 
-lst.sort(reverse=True)
+list.sort(reverse=True)
 
 i = 0
-while i < len(lst):
-    if lst[i] - s * (n - i - 1) <= 0:
+while i < len(list):
+    if list[i] - s * (n - i - 1) <= 0:
         print("NO")
         break
     i += 1
