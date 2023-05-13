@@ -1,6 +1,6 @@
 ## Competitive Coding
 
-This repository contains solutions to problems from the following platforns:
+This repository contains solutions to problems from the following platforms:
 * [CodeChef](https://www.codechef.com/)
 * [HackerRank](https://www.hackerrank.com/)
 * [Kattis](https://www.kattis.com/)
