@@ -6,9 +6,3 @@ This repository contains solutions to problems from the following platforns:
 * [Kattis](https://www.kattis.com/)
 * [LeetCode](https://leetcode.com/)
 * [ProjectEuler](https://projecteuler.net/)
-
-## Repository Structure
-
-The repository is structured as follows:
-* Each folder is labelled according to where they are from, e.g. LeetCode problems will be in the LeetCode folder.
-* Each folder contains subfolders which are labelled accorded to the programming language the solution is written in.
