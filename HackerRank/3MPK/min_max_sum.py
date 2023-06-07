@@ -1,0 +1,5 @@
+arr = list(map(int, input().split()))
+arr = sorted(arr)
+min_sum = sum(arr[:4])
+max_sum = sum(arr[1:])
+print(min_sum, max_sum)
